@@ -12,4 +12,4 @@ class Solution:
             else:
                 result.append(str(i))
         
-        return result
+        return
